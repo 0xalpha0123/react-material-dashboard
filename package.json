@@ -39,7 +39,7 @@
         "material-table": "1.68.0",
         "material-ui-popup-state": "1.6.1",
         "mobile-detect": "1.4.4",
-        "moment": "2.27.0",
+        "moment": "2.29.4",
         "mui-datatables": "^3.6.0",
         "notistack": "0.9.17",
         "path-to-regexp": "3.2.0",
